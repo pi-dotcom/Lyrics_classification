@@ -9,7 +9,7 @@ The goal is to build a web-scraper to scrape music lyrics, preprocess the obtain
 
 I have used following concepts(lessions) for this project
 - Web Scraping, Regular Expression, HTML Parsing, Language Models, Class Imbalance, Bag-of-Words, Naive Bayes, Python Functions, Command Line Interface
-- 
+
 ## Workflow of Project
 
 ### Web Scrapping
