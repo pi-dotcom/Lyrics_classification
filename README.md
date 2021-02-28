@@ -8,8 +8,8 @@ The goal is to build a web-scraper to scrape music lyrics, preprocess the obtain
 - This program takes artist input from the user to train a Multinomial Naive Bayes model via parsing artists' songs from the website www.songlyrics.com
 
 I have used following concepts(lessions) for this project
-
--Web Scraping, Regular Expression, HTML Parsing, Language Models, Class Imbalance, Bag-of-Words, Naive Bayes, Python Functions, Command Line Interface
+- Web Scraping, Regular Expression, HTML Parsing, Language Models, Class Imbalance, Bag-of-Words, Naive Bayes, Python Functions, Command Line Interface
+- 
 ## Workflow of Project
 
 ### Web Scrapping
